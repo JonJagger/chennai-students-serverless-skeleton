@@ -1,13 +1,18 @@
 $(document).ready(function() {
 
-  let names = [
+  let namesPNG = [
+    'Deekshita',
+    'Srikar',
+    'Surya'
+  ];
+
+  let namesJPG = [
     'Akhil',
     'Akshaya',
     'Arun',
     'ArunKumar',
     'Ashwin',
     'Krishna',
-    'Deekshita',
     'Divya',
     'Francis',
     'Gayathri',
@@ -25,8 +30,6 @@ $(document).ready(function() {
     'Sariha',
     'Shravan',
     'Sindhura',
-    'Srikar',
-    'Surya',
     'Tharun',
     'Uma',
     'Vamshi',
