@@ -1,12 +1,12 @@
 $(document).ready(function() {
 
-  let namesPNG = [
+  const namesPNG = [
     'Deekshita',
     'Srikar',
     'Surya'
   ];
 
-  let namesJPG = [
+  const namesJPG = [
     'Akhil',
     'Akshaya',
     'Arun',
