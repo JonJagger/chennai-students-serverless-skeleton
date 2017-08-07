@@ -7,7 +7,7 @@ $(document).ready(function() {
   ];
 
   const namesJPG = [
-    'Akhil', 'Akshaya', 'Arun', 'ArunKumar', 'Ashwin',
+    'Akhil', 'Akshaya', 'Arun', 'Arjun Kumar', 'Ashwin',
     'Krishna', 'Divya', 'Francis', 'Gayathri', 'Heamanth',
     'Madhu', 'Manisha', 'Karthick', 'Mihir', 'Murali',
     'Neeharika', 'Prakash', 'Prakhyat', 'Sanjana', 'Sankara',
